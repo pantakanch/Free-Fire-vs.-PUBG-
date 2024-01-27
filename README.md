@@ -6,41 +6,21 @@ The "Free Fire vs. PUBG Facebook Page Analytics" project delves into the insight
 
 ## Key Questions:
 
-1. **Overall Engagement:**
-   - How is the overall engagement on each page?
-
-2. **Highly Engaging Posts:**
-   - Which posts have the highest engagement?
-
-3. **Posting Frequency Impact:**
-   - How does posting frequency affect engagement?
-
-4. **Content Performance:**
-   - What types of content perform the best?
-
-5. **Optimal Posting Time:**
-   - At what time does each page prefer to post the most?
-   - Is there a specific time that yields the best performance for each page?
+- How many posts does each page make?
+- What is the overall engagement on each page?
+- Which posts have the highest engagement?
+- On which day does each page prefer to post the most?
+- At what time does each page prefer to post the most?
+- What types of content perform the best?
 
 ## Summary Insights:
-![image](https://github.com/pantakanch/Free-Fire-vs.-PUBG-Facebook-Page-Analytics/assets/113978334/995140fa-f156-4c73-98eb-e5bd632e8dd6)
-![image](https://github.com/pantakanch/Free-Fire-vs.-PUBG-Facebook-Page-Analytics/assets/113978334/7c7df814-38eb-42e0-813d-9fb0599eb40d)
-![image](https://github.com/pantakanch/Free-Fire-vs.-PUBG-Facebook-Page-Analytics/assets/113978334/6efebee0-5d64-4f81-b8e2-c72f47eadeaa)
+![Screenshot 2024-01-27 193354](https://github.com/pantakanch/Free-Fire-vs.-PUBG-Facebook-Page-Analytics/assets/113978334/deb47f8f-3390-4aac-b0d2-2ef2822dab83)
 
 Dashboard : https://docs.google.com/spreadsheets/d/1_dA50fkJpRbdFygU8ExY1YeVSeaQXdXAUIyalINyjng/edit#gid=1535441902
 
-- **Post Comparison:**
-  - Free Fire has 300 posts, while PUBG has 247, indicating a 21.45% higher posting frequency for Free Fire.
-
-- **Engagement Analysis:**
-  - Free Fire shows an average engagement per post more than 3.75 times higher than PUBG.
-
-- **Posting Frequency Impact:**
-  - There is a positive correlation between posting frequency and engagement.
-
-- **Top Content Types:**
-  - "Profile_media" posts lead in engagement for Free Fire, whereas PUBG performs best with photo content.
-
-- **Optimal Posting Time:**
-  - Free Fire has the highest post frequency in the afternoon, but the majority of engagement comes from the morning.
-  - PUBG has a similar pattern, with the most posts and engagement occurring in the afternoon.
+- Free Fire has a page with more likes than PUBG, with a ratio of 1.9 times.
+- Free Fire has 300 posts, while PUBG has 247, indicating a 21.45% higher posting frequency for Free Fire.
+- Free Fire shows an average engagement per post more than 3.75 times higher than that of PUBG.
+- Free Fire prefers to post on Saturdays, but the highest engagement comes from Sundays. On the other hand, PUBG prefers to post on Wednesdays, but the best engagement comes on Sundays.
+- Free Fire consistently posts during 8 am to 8 pm, with the best engagement occurring from 8 am to 9 am. PUBG prefers to post from 1 pm to 4 pm, but the best engagement comes at 8 pm.
+- Update/Event is the content type leading in engagement for Free Fire, whereas PUBG performs best with Esports.
