@@ -33,7 +33,7 @@ The "Free Fire vs. PUBG Facebook Page Analytics" project delves into the insight
    - Generate charts to visually represent key metrics.
 
 **Dashboard Creation:**
-Develop a dynamic dashboard using slicers for better interaction and visualization.
+   - Develop a dynamic dashboard using slicers for better interaction and visualization.
 
 
 ## Summary Insights:
