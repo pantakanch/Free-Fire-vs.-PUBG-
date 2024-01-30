@@ -13,7 +13,7 @@ The "Free Fire vs. PUBG Facebook Page Analytics" project delves into the insight
 - At what time does each page prefer to post the most?
 - What types of content perform the best?
 
-## Process
+## Process:
 **Data Collection:**
    - Utilize Supermetrics, a Google Sheets add-in, to gather data from Facebook Insights.
 
