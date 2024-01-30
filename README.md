@@ -49,11 +49,11 @@ Dashboard : https://docs.google.com/spreadsheets/d/1_dA50fkJpRbdFygU8ExY1YeVSeaQ
 - Update/Event is the content type leading in engagement for Free Fire, whereas PUBG performs best with Esports.
 
 
-# Why Free Fire Appears Successful :
+**Why Free Fire Appears Successful:**
 Free Fire demonstrates a strong social media presence with 26.76 million page likes, a posting frequency of 54.9%, and an impressive average engagement of 4358 per post. The strategic posting times potentially align with its audience's preferences, as well as the diversity in content.
 
 
-# Recommendations:
+## Recommendations:
 *For Free Fire:*
 1. **Maintain Posting Frequency:** Continue the current posting frequency as it contributes to a higher engagement rate.
 2. **Optimize Posting Times:** Focus on the optimal posting times, especially on Saturdays and Sundays when engagement is highest.
