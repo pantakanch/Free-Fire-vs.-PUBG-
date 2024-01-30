@@ -13,6 +13,19 @@ The "Free Fire vs. PUBG Facebook Page Analytics" project delves into the insight
 - At what time does each page prefer to post the most?
 - What types of content perform the best?
 
+## Process
+**Data Collection:**
+   - Utilize Supermetrics, a Google Sheets add-in, to gather data from Facebook Insights.
+
+**Data Cleaning & Wrangling:**
+   - Remove duplicates, trim whitespace.
+   - Create additional columns:
+     - Engagement: Sum of Reactions, Comments, and Post shares.
+     - WEEKNUM: Week number of each post.
+     - HOUR: Hour of the day when the post was made.
+     - DAY: Day of the week when the post was made.
+     - WEEKDAY: Numeric representation of the weekday (Monday as 1, Sunday as 7).
+
 ## Summary Insights:
 ![Screenshot 2024-01-27 193354](https://github.com/pantakanch/Free-Fire-vs.-PUBG-Facebook-Page-Analytics/assets/113978334/deb47f8f-3390-4aac-b0d2-2ef2822dab83)
 
