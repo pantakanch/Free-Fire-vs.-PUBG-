@@ -37,7 +37,8 @@ The "Free Fire vs. PUBG Facebook Page Analytics" project delves into the insight
 
 
 ## Summary Insights:
-![Screenshot 2024-01-27 193354](https://github.com/pantakanch/Free-Fire-vs.-PUBG-Facebook-Page-Analytics/assets/113978334/deb47f8f-3390-4aac-b0d2-2ef2822dab83)
+![image](https://github.com/pantakanch/Free-Fire-vs.-PUBG-Facebook-Page-Analytics/assets/113978334/4f0c6c5b-d667-4a06-9944-7ba63a8ebdf9)
+
 
 Dashboard : https://docs.google.com/spreadsheets/d/1_dA50fkJpRbdFygU8ExY1YeVSeaQXdXAUIyalINyjng/edit#gid=1535441902
 
